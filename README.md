@@ -8,7 +8,7 @@ Welcome to our collaborative repository! We are a team of three passionate devel
 
 - **Member 1:** Alhamdu Abdellah
 - **Member 2:** Fromi Tewodros  
-- **Member 3:** Nathnael Getachew
+- **Member 3:** Nathnael Teshome
 
 > Each of us contributes our unique strengths—from UI/UX design to front-end and back-end development.
 
